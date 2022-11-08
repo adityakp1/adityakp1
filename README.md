@@ -3,7 +3,7 @@
 I am always curious to learn new things related to Technologies & Universe and also love to explore Nature ❤️
 
 - ❤️ Completed journey with **C, C++, JAVA, HTML, CSS, JS, MongoDB**
-- 🧠 Currently I'm on the way of **[React, Django & DSA]**
+- 🧠 Currently I'm on the way of **[React,Nodejs, Django & DSA]**
 - 🌱 I’m currently exploring and learning **New Tech Stuff**
 - 📫 Connect with me : [Linkdin](https://www.linkedin.com/in/aditya-pandey-a54159244), <a href="mailto:testing@gmail.com">Gmail</a>, <a href="https://www.discord.com/adp1">Discord</a>
 - 🤝  I'm open to collaborating on Creative & Interesting projects
