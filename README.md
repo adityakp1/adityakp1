@@ -34,15 +34,14 @@ I am always curious to learn new things related to Technologies & Universe and a
  
  <b>Github's Stats</b>
  
- <a href="http://www.github.com/adityakp1"><img src="https://github-readme-stats.vercel.app/api?username=adityakp1&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aditya's GitHub stats" /></a>
+ <a href="http://www.github.com/adityakp1"><img src="https://github-stats-card.vercel.app/api?username=adityakp1&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aditya's GitHub stats" /></a>
  
  <a href="http://www.github.com/adityakp1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakp1&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  
  <a href="http://www.github.com/adityakp1"><img src="https://activity-graph.herokuapp.com/graph?username=adityakp1&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/adityakp1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakp1&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/adityakp1" align="left"><img src="https://github-stats-card.vercel.app/api/top-langs/?username=adityakp1&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakp1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  
  ### Support
  
