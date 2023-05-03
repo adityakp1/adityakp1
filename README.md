@@ -9,7 +9,7 @@ I am always curious to learn new things related to Technologies & Universe and a
 - ❤️ Completed journey with **C, C++, JAVA, HTML, CSS, JS, MongoDB**
 - 🧠 Currently I'm on the way of **[React,Nodejs, Django & DSA]**
 - 🌱 I’m currently exploring and learning **New Tech Stuff**
-- 📫 Connect with me : [Linkdin](https://www.linkedin.com/in/aditya-k-p/), <a href="mailto:testing@gmail.com">Gmail</a>, <a href="https://www.discord.com/adp1">Discord</a>
+- 📫 Connect with me : [LinkedIn](https://www.linkedin.com/in/aditya-k-p/), <a href="mailto:testing@gmail.com">Gmail</a>, <a href="https://www.discord.com/adp1">Discord</a>
 - 🤝  I'm open to collaborating on Creative & Interesting projects
 - ⚡  My logic thinking process is pretty unique, and I am always ready to help you out
 
