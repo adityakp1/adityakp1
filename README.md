@@ -1,4 +1,8 @@
-# Hello there 👋, My name is Aditya Pandey 
+ <h1 align="center"> Hello there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Aditya Pandey</h1>
+         
 ##  Front-End Web Developer
 I am always curious to learn new things related to Technologies & Universe and also love to explore Nature ❤️
 
@@ -9,8 +13,9 @@ I am always curious to learn new things related to Technologies & Universe and a
 - 🤝  I'm open to collaborating on Creative & Interesting projects
 - ⚡  My logic thinking process is pretty unique, and I am always ready to help you out
 
+<br>
 
-### Socials
+### 📢 Socials
 
 <p align="left">
 <a href="https://discord.com/users/adp1#8150" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
@@ -19,8 +24,9 @@ I am always curious to learn new things related to Technologies & Universe and a
 <a href="https://www.linkedin.com/in/aditya-k-p" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/adityakp0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+<br>
 
-### Skills
+### 🔑 Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -28,6 +34,13 @@ I am always curious to learn new things related to Technologies & Universe and a
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="36" heigth="36" alt="JAVA" /></a>
+  
+  <br><br>
+  
+### 🛒 Apps on Store
+  
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&color=informational)](https://play.google.com/store/apps/dev?id=7703305844118303242)
+  
   
  ### Badges
  
@@ -43,13 +56,16 @@ I am always curious to learn new things related to Technologies & Universe and a
   
   ### Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/adityakp1/adityakp1/blob/output/github-contribution-grid-snake.svg)
- 
+  
  ### Support
  
  <a href="https://www.buymeacoffee.com/adityakp1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
  
  &lt;&gt; with ❤️ by Aditya Pandey
  
+  <br>
+  
+  [![](https://visitcount.itsvg.in/api?id=adityakp1&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
  
 
 
