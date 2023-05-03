@@ -49,6 +49,7 @@ I am always curious to learn new things related to Technologies & Universe and a
  <a href="http://www.github.com/adityakp1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakp1&show_icons=true&theme=github_dark_dimmed" />
 </a>
+ <br><br>
 <a href="http://www.github.com/adityakp1">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakp1&stroke=ffffff&background=24292F&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
