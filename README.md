@@ -39,7 +39,7 @@ I am always curious to learn new things related to Technologies & Universe and a
   
 ### 🛒 Apps on Store
   
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&color=informational)](https://play.google.com/store/apps/dev?id=7703305844118303242)
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&color=informational)]()
   
   
  ### Badges
