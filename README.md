@@ -42,6 +42,8 @@ I am always curious to learn new things related to Technologies & Universe and a
 
 <a href="https://github.com/adityakp1" align="left"><img src="https://github-stats-card.vercel.app/api/top-langs/?username=adityakp1&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
+  ## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
  
  ### Support
  
