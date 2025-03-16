@@ -64,6 +64,7 @@ I am always curious to learn new things related to Technologies & Universe and a
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakp1/adityakp1/output/github-snake.svg" />
   <img alt="Snake Animation" src="https://raw.githubusercontent.com/adityakp1/adityakp1/output/github-snake.svg" />
 </picture>
+<br>
 ![snake gif](https://github.com/adityakp1/adityakp1/blob/output/github-snake-dark.svg)
   
  ### Support
