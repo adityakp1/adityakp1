@@ -60,7 +60,12 @@ I am always curious to learn new things related to Technologies & Universe and a
  <a href="http://www.github.com/adityakp1"><img src="https://activity-graph.herokuapp.com/graph?username=adityakp1&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
   ### Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/adityakp1/adityakp1/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakp1/adityakp1/output/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakp1/adityakp1/output/github-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/adityakp1/adityakp1/output/github-snake.svg" />
+</picture>
+![snake gif](https://github.com/adityakp1/adityakp1/blob/output/github-snake-dark.svg)
   
  ### Support
  
