@@ -38,7 +38,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=go,cpp,c,java,js,python" />
+<img src="https://skillicons.dev/icons?i=go,cpp,c,js,python" />
 
 </p>
 
@@ -54,7 +54,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,django,express" />
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,express" />
+<a href="https://gofiber.io">
+    <picture>
+      <source height="40" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg">
+      <img height="40" alt="Fiber" src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg">
+    </picture>
+  </a>
 
 </p>
 
@@ -81,14 +87,12 @@
 |------------|---------|
 | C | ✅ Mastered |
 | C++ | ✅ Mastered |
-| HTML | ✅ Mastered |
-| CSS | ✅ Mastered |
 | JavaScript | ✅ Mastered |
 | SQL | ✅ Mastered |
-| GoLang | 📈 Learning|
-| React | 📈 Learning |
+| GoLang | 🔥 Active Learning|
+| Python | 📈 Learning|
+| React | ✅ Mastered |
 | Node.js | 📈 Learning |
-| Django | 📈 Learning |
 | DSA | 🔥 Active Practice |
 
 
@@ -128,7 +132,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adityakp1/adityakp1/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/adityakp1/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
